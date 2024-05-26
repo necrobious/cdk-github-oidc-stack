@@ -1,5 +1,5 @@
 {
-  "app": "npx ts-node --prefer-ts-exts bin/cdk-github-oidc-stack.ts",
+  "app": "npx ts-node --prefer-ts-exts bin/github-oidc-stack.ts",
   "watch": {
     "include": [
       "**"
